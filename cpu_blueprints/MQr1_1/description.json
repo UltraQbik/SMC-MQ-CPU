@@ -1,5 +1,5 @@
 {
-   "description" : "WIP CPU\n\nSpecs:\nSpeed - avg 3 Hz\nROM - 64 words (65536 max)\nCACHE - 32 bytes (65536 max)\nData bus width - 8 bits\nAddress bus width - 16 bits (8 avaliable right now)\n\nMQ instructions set:\nhttps://docs.google.com/spreadsheets/d/1Sl82E1pRsVYuFbP9roWOJOsSJ4JLtFiOXaD3Rq9oaJI/edit#gid=0\n\nCan perform following instructions:\nNOP\nLRA\nSRA\nJMP\nJMPP\nJMPZ\nJMPN\nJMPC\nCCF\nAND\nOR\nXOR\nNOT\nLSC\nRSC\nINC\nDEC\nABS\nMUL\nDIV\nHALT",
+   "description" : "#{STEAM_WORKSHOP_NO_DESCRIPTION}",
    "fileId" : 3114726120,
    "localId" : "c6e97ac8-867a-44b6-b7ac-46c7a8f3f225",
    "name" : "MQr1.1 Computer CPU",

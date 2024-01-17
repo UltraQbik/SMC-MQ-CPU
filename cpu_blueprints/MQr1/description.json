@@ -1,0 +1,8 @@
+{
+   "description" : "MQ - Mini Quantum 8 Bit\n\nThis computer is based off of Quantum Computer v2300, which is my previous working computer. This is my attempts at making it better.\n\nOut of box specs:\nCache size: 16 bytes (max: 256)\nStack size: 16 bytes (max: 256)\nProgram memory size: 64 words (max: 256)\nAVG Speed: 20 ticks (500 ms)\nPort ax: 256)\n\nOperation codes:\n0 - NOP - No operation\n1 - LRA - Load Register ACC\n2 - SRA - Store Register ACC\n3 - CALL - Call\n4 - RET - Return\n5 - JMP - Jump\n6 - JMPP - Jump Positive\n7 - JMPZ - Jump Zero\n8 - JMPN - Jump Negative\n9 - JMPC - Jump Carry\n10 - CCF - Clear Register Carry\n...\n16 - AND - bitwise AND\n17 - OR - bitwise OR\n18 - XOR - bitwise XOR\n19 - NOT - bitwise NOT\n20 - LSC - Left Shift Carry\n21 - RSC - Right Shift Carry\n22 - CMP - Compare\n...\n48 - UI - User Input\n49 - UO - User Output\n...\n32 - ADC - Add Carry\n33 - SBC - Subtract Carry\n34 - INC - Increment\n35 - DEC - Decrement\n36 - ABS - Absolute\n...\n112 - PRW - Port Register Write\n113 - PRR - Port Register Read\n...\n127 - HALT - Halt",
+   "fileId" : 2820283878,
+   "localId" : "09b6cc1c-7668-4006-a30f-7c328bdc01d1",
+   "name" : "MQ VANILA Computer",
+   "type" : "Blueprint",
+   "version" : 0
+}
